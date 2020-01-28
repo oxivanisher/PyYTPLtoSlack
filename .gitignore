@@ -1,6 +1,9 @@
 # ignore pycharm files
 .idea
 
+# ignore google auth file
+client_secret.json
+
 # ignore virtual environment
 venv
 
