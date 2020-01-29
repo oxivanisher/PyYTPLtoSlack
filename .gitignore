@@ -1,3 +1,8 @@
+# ignore generated files
+yt-playlist-video-ids-*.json
+google_api_discovery_*
+token.pickle
+
 # ignore pycharm files
 .idea
 
