@@ -1,7 +1,6 @@
 # ignore generated files
 yt-playlist-video-ids-*.json
-google_api_discovery_*
-token.pickle
+yt_api_key.yaml
 
 # ignore pycharm files
 .idea
